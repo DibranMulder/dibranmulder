@@ -9,4 +9,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[twitter]: https://twitter.com/fschaal
+[instagram]: https://instagram.com/keekje
+[linkedin]: https://linkedin.com/in/florian-schaal
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/dibranmulder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdibranmulder&screen_name=dibranmulder)
