@@ -2,7 +2,7 @@
 
 - 💬 Ask me about Azure Serverless and PaaS, .NET, TypeScript, Angular, React. 
 - 😄 Pronouns: He, him, Mr.
-- ⚡ Fun fact: Race cyclist, father of 2, housband, christian.
+- ⚡ Fun fact: Race cyclist, father of 2, husband, Christian.
 
 ## Connect with me
 
