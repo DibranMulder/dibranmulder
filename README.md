@@ -1,4 +1,4 @@
-### Hi there, I'm Dibran Mulder 🤗
+### Hi there, I'm Dibran Mulder 🤗, GenerativeAI Developer for the NS (Netherlands Railways)
 
 - 💬 Ask me about Azure Serverless and PaaS, .NET, TypeScript, Angular, React. 
 - 😄 Pronouns: He, him, Mr.
