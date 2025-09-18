@@ -1,8 +1,9 @@
 ### Hi there, I'm Dibran Mulder 🤗
 
-- 💬 Ask me about Azure Serverless and PaaS, .NET, TypeScript, Angular, React. 
-- 😄 Pronouns: He, him, Mr.
-- ⚡ Fun fact: Race cyclist, father of 2, husband, Christian.
+
+- 🚀 CTO at Yivi, working on privacy-friendly digital identity solutions.
+- 💬 Ask me about: Wallet tech, digital identity standards, cloud, software development
+- ⚡ Fun fact: Race cyclist, father of 3, husband, Christian.
 
 ## Connect with me
 
